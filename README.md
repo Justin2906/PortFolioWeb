@@ -1,6 +1,13 @@
-# PortFolioWeb
+# PortFolioWeb Personal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
+¡Bienvenido a mi portfolio personal! Aquí encontrarás una recopilación de mis proyectos, habilidades, experiencia y estudios.
+
+# Skills
+- AngularJS
+- HTML5
+- CSS3,
+- RypeScript
 
 ## Development server
 
